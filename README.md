@@ -16,3 +16,7 @@ This notebook presents an advanced analysis of Disney stock using historical OHL
 • alpha signal discovery
 
 ## The notebook integrates modern visualization frameworks to create an interactive research environment.
+
+* Analysis
+* Trend
+* Visualization 
