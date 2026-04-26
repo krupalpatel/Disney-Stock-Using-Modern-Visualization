@@ -1,5 +1,5 @@
 # Disney-Stock-Using-Modern-Visualization
-Advanced Technical Analysis &amp; Market Structure Dashboard
+Advanced Technical Analysis & Market Structure Dashboard
 
 This notebook presents an advanced analysis of Disney stock using historical OHLCV data.
 
